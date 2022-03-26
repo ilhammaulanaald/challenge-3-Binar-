@@ -1,0 +1,14 @@
+.dashboard {
+    position: absolute;
+    padding-left: 300px;
+    padding-top: 40px;
+}
+
+.tombolkanan {
+    display: flex;
+    justify-content: end;
+}
+
+h4 {
+    transform: translateY(25px);
+}

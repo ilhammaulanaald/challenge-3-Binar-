@@ -1,0 +1,25 @@
+.Sidebar {
+    position: absolute;
+    height: 210%;
+    width: 70px;
+    background-color: #0D28A6;
+}
+
+h6 {
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
+
+image {
+    align-items: center;
+}
+
+.logoside {
+    width: 34px;
+    height: 34px;
+    background-color: #CFD4ED;
+    margin-left: 18px;
+    margin-top: 16px;
+    margin-bottom: 20px;
+}

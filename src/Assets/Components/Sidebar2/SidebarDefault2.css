@@ -1,0 +1,30 @@
+.sidebar2 {
+    position: absolute;
+    margin-top: 30px;
+    height: 900px;
+    width: 270px;
+    background-color: white;
+}
+
+text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #8A8A8A;
+    margin-left: 90px;
+
+}
+
+.bgtext {
+    background-color: #CFD4ED;
+    height: 42px;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    margin-left: 90px;
+    margin-top: 20px;
+    padding-top: 12px;
+}
