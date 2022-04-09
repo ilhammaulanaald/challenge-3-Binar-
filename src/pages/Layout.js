@@ -1,5 +1,4 @@
-import React ,{useEffect, useState} from 'react'
-import { BrowserRouter , useParams} from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
 import { Routers } from '../Routes/Routers';
 
 export const Layout = () => {

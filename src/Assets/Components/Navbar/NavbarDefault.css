@@ -1,10 +1,10 @@
-.menu {
-    margin-left: 100px;
-}
-
-.logonav {
-    background-color: #CFD4ED;
+.logobrand {
     width: 100px;
     height: 34px;
-    margin-left: -20px;
+    background-color: #0D28A6;
+    margin-left: 68px;
+}
+
+.linknavbar {
+    margin-right: 32px;
 }
